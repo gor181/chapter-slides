@@ -12,6 +12,7 @@ key: "5a38315ae3"
 
 
 `@lower_third`
+
 name: Name Surname
 title: Instructor
 
@@ -30,7 +31,8 @@ key: "b09f844970"
 
 
 `@part1`
-goran {{-}}
+goran
+ok
 
 
 `@script`
